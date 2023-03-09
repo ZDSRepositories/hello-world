@@ -1,2 +1,2 @@
 # hello-world
-Hello-world repository for github get-started page.
+- This readme was written by ZDS to describe the hello-world repository.
